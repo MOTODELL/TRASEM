@@ -1,2 +1,2 @@
 # TRASEM
-Prototipo de guante traductor de lengua de señas mexicano
+Prototipo de guante traductor de la lengua de señas mexicanas (LSM).
